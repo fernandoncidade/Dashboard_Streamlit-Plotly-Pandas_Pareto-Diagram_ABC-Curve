@@ -1,0 +1,2 @@
+# Dashboard_Streamlit-Plotly-Pandas_Pareto-Diagram_ABC-Curve
+ This Dashboard allows the user to analyze a set of data contained in columns within an Excel spreadsheet (Extensions: “.csv” and “.xlsx”), the analysis of this data is carried out through two graphs “ABC Curve” and “Pareto Diagram”.  Este Dashboard permite ao usuário analisar um conjunto de dados contidos em colunas dentro de uma planilha Excel (Extensões: ".csv" e ".xlsx"), a análise destes dados é efetuada através de dois gráficos "Curva ABC" e "Diagrama de Pareto".
